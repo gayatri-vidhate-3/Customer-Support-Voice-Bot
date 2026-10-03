@@ -55,7 +55,6 @@ customer-support-voice-bot/
 ├── docs/                                  # Demo GIF, screenshots, sample conversations
 ├── requirements.txt
 ├── .gitignore
-├── LICENSE
 └── README.md
 ```
 
