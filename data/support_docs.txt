@@ -1,0 +1,38 @@
+COMPANY OVERVIEW
+We are an e-commerce platform selling electronics, home goods, and accessories. Our customer support team is available to help with orders, shipping, returns, refunds, payments, and account issues. This document serves as the knowledge base for our AI customer support voice assistant.
+
+GREETING AND SCOPE
+The assistant should greet customers warmly and only answer questions related to orders, shipping, returns, refunds, payments, product availability, and account help. Questions outside this scope, such as legal, medical, or financial advice, should be politely declined with an offer to connect the customer to a human agent.
+
+REFUND POLICY
+Customers can request a refund within 30 days of delivery for most items, provided the product is unused and in its original packaging. Refunds are processed to the original payment method within 5 to 7 business days after the returned item is received and inspected. Digital products, gift cards, and personalized or custom-made items are non-refundable. If an item arrives damaged or defective, the customer is eligible for a full refund or free replacement regardless of the 30-day window, as long as it is reported within 48 hours of delivery.
+
+RETURN PROCESS
+To initiate a return, the customer should go to the Orders section of their account, select the item, and choose Request Return. They will receive a prepaid shipping label by email within a few minutes. The item must be shipped back within 14 days of the return request being approved. Once the returned item is received at our warehouse, it takes 2 to 3 business days to inspect and process. The customer is notified by email at every stage of the return process.
+
+ORDER TRACKING
+Customers can track their order status by logging into their account and visiting the Order History page, or by using the tracking number sent in their shipping confirmation email. Standard shipping typically takes 3 to 5 business days within the country, and express shipping takes 1 to 2 business days. International shipping can take 7 to 14 business days depending on the destination and customs processing.
+
+SHIPPING DELAYS
+If an order is delayed beyond the estimated delivery window, the customer should first check the tracking link for updates from the courier. If there has been no movement for more than 3 business days, the assistant should apologize for the inconvenience, offer to escalate the issue to the logistics team, and let the customer know they will receive an update within 24 hours. Customers are never charged extra for delays caused by the courier or by the company.
+
+CANCELLING AN ORDER
+Orders can be cancelled free of charge as long as they have not yet been shipped. Once an order status shows Shipped, it can no longer be cancelled, but the customer can request a return once it is delivered. To cancel, the customer should go to Order History, select the order, and click Cancel Order. Cancelled orders are refunded within 3 to 5 business days.
+
+PAYMENT ISSUES
+We accept major credit and debit cards, UPI, net banking, and popular digital wallets. If a payment fails but the amount was deducted from the customer's account, it is usually auto-reversed by the bank within 5 to 7 business days. If it has not been reversed after 7 business days, the assistant should offer to raise a payment escalation ticket with the finance team. We never ask customers for their card PIN, OTP, or CVV over chat or voice support.
+
+ACCOUNT AND LOGIN HELP
+If a customer cannot log in, they should try the Forgot Password option on the login page, which sends a reset link to their registered email. If the email is not received within 10 minutes, the customer should check their spam folder. If the account appears to be locked due to multiple failed login attempts, it automatically unlocks after 30 minutes, or the customer can contact support for immediate help.
+
+PRODUCT AVAILABILITY AND RESTOCKING
+If an item is out of stock, customers can click Notify Me on the product page to receive an email as soon as it is back in stock. Restocking times vary by product and are generally between 1 and 3 weeks. The assistant should never guess a specific restock date unless it is explicitly available in the product listing.
+
+WARRANTY INFORMATION
+Most electronics come with a 1-year manufacturer warranty covering manufacturing defects, not physical damage or water damage. To make a warranty claim, the customer should have their order number and a description or photo of the issue ready, and the assistant should direct them to the Warranty Claims section of their account or offer to connect them with a warranty specialist.
+
+ESCALATION TO HUMAN AGENT
+The assistant should offer to escalate to a human agent when the customer explicitly asks for a human, when the issue involves a dispute over charges, when the customer expresses significant frustration or repeats the same issue more than twice, or when the query falls outside the topics covered in this knowledge base. When escalating, the assistant should reassure the customer that a support agent will follow up, typically within 24 hours, and should never make promises about compensation or refunds beyond stated policy.
+
+CONTACT AND HOURS
+Voice and chat support is available 24 hours a day, 7 days a week. Email support responses typically take up to 24 hours. For urgent issues such as fraudulent charges, customers should be advised to also contact their bank directly in addition to raising a ticket with us.

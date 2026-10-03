@@ -144,13 +144,11 @@ Replace `data/support_docs.txt` with your own content — plain text, one topic 
 
 Python · faster-whisper · LangChain · ChromaDB · Sentence-Transformers · Groq (Llama 3.1) · edge-tts · pydub · Google Colab
 
-## 📄 License
-
-MIT — see [LICENSE](LICENSE).
 
 ## 👩‍💻 Author
 
 **Gayatri Vidhate** — Data Scientist | Machine Learning Engineer | NLP Engineer | GenAI Engineer
+
 [GitHub](https://github.com/gayatri-vidhate-3) · gayatri.vidhate.gv@gmail.com
 
 If you found this useful, feel free to ⭐ the repo or connect with me!

@@ -1,0 +1,11 @@
+# secrets
+.env
+*.key
+
+# generated at runtime
+chroma_db/
+input_audio.*
+bot_reply.mp3
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
